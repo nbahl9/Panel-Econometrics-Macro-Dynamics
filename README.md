@@ -1,1 +1,1 @@
-# Panel-Econometrics-Macro-Dynamics
+# Panel Econometrics Macro Dynamics
